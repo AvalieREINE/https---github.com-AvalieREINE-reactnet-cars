@@ -49,7 +49,7 @@ const App: React.FC = () => {
         <Col>
         <h3>Add A Car </h3>
         <AddCar makes={makes} cars={cars} />
-        </Col>
+        </Col>  
        
       </Row>
     </Container>
