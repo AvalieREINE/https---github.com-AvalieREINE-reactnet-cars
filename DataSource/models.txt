@@ -1,0 +1,5 @@
+6,Rav4,1
+7,brownie,2
+8,Fit,2
+9,Cybertruck,3
+5,brownie,2
